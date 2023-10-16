@@ -4,7 +4,7 @@
   display: grid;
   align-items: center;
   grid-template-columns: repeat(3, 1fr);
-  padding: 92px 49px 96px 51px;
+  padding: 92px 49px 92px 51px;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -116,7 +116,7 @@
   display: flex;
   justify-content: end;
   align-items: center;
-  margin-top: 147px;
+  margin-top: 105.5px;
 }
 
 .cover__description-text{
@@ -154,7 +154,7 @@
 /* начало секции lots */
 
 .lots {
-  padding: 180px 50px 50px 50px;
+  padding: 140px 50px 50px 50px;
   box-sizing: border-box;
 }
 
@@ -164,7 +164,7 @@
   font-weight: 700;
   line-height: normal;
   text-transform: uppercase;
-  margin: 50px;
+  margin: 40px;
 }
 
 .lots__card-list{
