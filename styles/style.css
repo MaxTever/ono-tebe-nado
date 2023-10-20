@@ -15,7 +15,7 @@
   align-items: center;
   list-style: circle;
   gap: 32px;
-  text-underline-offset: 6px;
+  text-underline-offset: 4px;
 }
 
 
@@ -329,6 +329,7 @@
   flex-direction: column;
   align-items: center;
   list-style: none;
+  text-underline-offset: 4px;
 }
 
 .footer__links-list-item {
